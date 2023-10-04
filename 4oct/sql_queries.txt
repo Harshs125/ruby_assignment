@@ -1,0 +1,7 @@
+SELECT column1, column2 FROM table_name WHERE condition:- Retrieves data from one or more tables.;
+INSERT INTO table_name (column1, column2) VALUES (value1, value2):- Adds new records into a table.;
+UPDATE table_name SET column1 = value1, column2 = value2 WHERE condition :- Modifies existing records in a table.;
+DELETE FROM table_name WHERE condition:-  Removes records from a table.;
+TRUNCATE TABLE table_name:- Removes all records from a table, but keeps the structure intact.;
+COMMIT:- Saves all pending transactions to the database.;
+ROLLBACK:- Undoes all changes made in the current transaction.
