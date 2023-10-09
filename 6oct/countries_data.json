@@ -1,0 +1,58 @@
+[
+  {
+    "name": "United States",
+    "population": 331002651,
+    "gdp": 21427700,
+    "states": 50,
+    "army_strength": 1382814,
+    "development_status": "developed"
+  },
+  {
+    "name": "China",
+    "population": 1444216107,
+    "gdp": 1434292470,
+    "states": 23,
+    "army_strength": 2050000,
+    "development_status": "developing"
+  },
+  {
+    "name": "Germany",
+    "population": 83783942,
+    "gdp": 3859547,
+    "states": 16,
+    "army_strength": 183000,
+    "development_status": "developed"
+  },
+  {
+    "name": "India",
+    "population": 1380004385,
+    "gdp": 2715210,
+    "states": 28,
+    "army_strength": 1392630,
+    "development_status": "developing"
+  },
+  {
+    "name": "Brazil",
+    "population": 212559417,
+    "gdp": 1839884,
+    "states": 26,
+    "army_strength": 334500,
+    "development_status": "developing"
+  },
+  {
+    "name": "France",
+    "population": 65273511,
+    "gdp": 2709686,
+    "states": 18,
+    "army_strength": 202750,
+    "development_status": "developed"
+  },
+  {
+    "name": "Russia",
+    "population": 145912025,
+    "gdp": 1683598,
+    "states": 85,
+    "army_strength": 1024000,
+    "development_status": "developing"
+  }
+]
